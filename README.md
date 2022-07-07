@@ -18,12 +18,12 @@ build out this profile card component and get it looking as close to the design 
 
 ### Screenshot
 
-![screen shot of full screen webpage](https://github.com/Eileenpk/order-summary-component/blob/main/images/Screenshot-full-website.png)
-![screen shot of mobile webpage](https://github.com/Eileenpk/order-summary-component/blob/main/images/Screenshot-mobile.png)
+![screen shot of full screen webpage](https://github.com/Eileenpk/profile-card-component/blob/main/images/Screenshot-full-website.png)
+![screen shot of mobile webpage](https://github.com/Eileenpk/profile-card-component/blob/main/images/Screenshot-mobile.png)
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Eileenpk/order-summary-component)
-- Live Site URL: [live site]( https://eileenpk.github.io/order-summary-component/)
+- Solution URL: [GitHub](https://github.com/Eileenpk/profile-card-component
+- Live Site URL: [live site](https://eileenpk.github.io/profile-card-component/)
 
 ### Built with
 
